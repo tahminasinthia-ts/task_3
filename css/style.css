@@ -1,0 +1,107 @@
+.second img
+{
+	 height:500px;
+	  width:100%;
+}
+.first_article p
+{
+	margin:0px 18px 0px 30px;
+	text-align: justify;
+}
+
+
+
+
+
+.middle
+{
+	width:1800px;
+ margin:0px 5px 0px 190px;
+
+
+}
+
+.third
+{     width:500px;
+	 height:500px;
+	 border:0px solid black;
+	  float:left;
+	margin:0px 0px 0px 0px;
+	 
+	
+	  
+}
+
+.third img
+{     width:450px;
+	 height:450px;
+	 margin:0px 0px 0px 0px;
+	 
+}
+
+
+.fourth
+{
+	 width:500px;
+	 height:500px;
+	 border:0px solid black;
+	 float:left;
+	
+}
+
+
+.fourth img
+{     width:450px;
+	 height:430px;
+	 margin:0px 0px 0px 0px;
+	  
+}
+
+.fifth
+{    
+	  width:500px;
+	 height:500px;
+	 border:0px solid black;
+	  float:left;
+}
+
+.fifth img
+{     width:450px;
+	 height:430px;
+	 margin:0px 0px 0px 0px;
+	  
+}
+
+
+
+.button {
+  background-color: #f44336; 
+  border: none;
+  color: white;
+  padding: 15px 25px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  cursor: pointer;
+   transition-duration: 0.6s;
+    
+}
+
+
+
+
+
+
+.button:hover {
+ 
+  background-color: brown;
+}
+
+.youtube_link iframe
+{
+
+	margin:51px 0px 18px 455px;
+	
+	
+}
+ 
